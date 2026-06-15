@@ -133,3 +133,11 @@ footer{
     color: white;
     background: #4873df
 }
+.input{
+    width: 100px;
+    padding: 5px;
+    background-color: #2c5dd7;
+    margin: 10px;
+    color: white;
+    font-weight: bold;
+}
