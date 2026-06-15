@@ -59,9 +59,14 @@ footer{
     color:white;
     text-align:center;
     padding:5px;
+    position: relative;
 }
 .futer{
-    margin-top: 25%;
+    margin-top: 40%;
+    position: relative;
+    clear: both;
+    
+
 }
 .p1{
     float:left;
